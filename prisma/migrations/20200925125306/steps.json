@@ -1,0 +1,35 @@
+{
+  "version": "0.3.14-fixed",
+  "steps": [
+    {
+      "tag": "UpdateField",
+      "model": "Manga",
+      "field": "image",
+      "arity": "Optional"
+    },
+    {
+      "tag": "UpdateField",
+      "model": "Manga",
+      "field": "alt_names",
+      "arity": "Optional"
+    },
+    {
+      "tag": "UpdateField",
+      "model": "Manga",
+      "field": "covers",
+      "arity": "Optional"
+    },
+    {
+      "tag": "UpdateField",
+      "model": "Manga",
+      "field": "artist",
+      "arity": "Optional"
+    },
+    {
+      "tag": "UpdateField",
+      "model": "Manga",
+      "field": "author",
+      "arity": "Optional"
+    }
+  ]
+}
